@@ -1,0 +1,12 @@
+{
+  "name": "PerformanceBoost",
+  "description": "Reduces Discord mobile lag, overheating, and scroll stutters by blocking telemetry, muting typing floods, and throttling continuous sticker loops.",
+  "authors": [
+    {
+      "name": "Milky"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0",
+  "hash": "3bec3836adf9818ac34165ee7c1de3aad9f870f935054624ad57fd181aa778f7"
+}

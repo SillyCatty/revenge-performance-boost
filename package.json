@@ -1,0 +1,8 @@
+{
+  "name": "revenge-performance-boost",
+  "version": "1.0.0",
+  "description": "Discord mobile performance optimization plugin for Revenge",
+  "main": "index.js",
+  "author": "Milky",
+  "license": "MIT"
+}
